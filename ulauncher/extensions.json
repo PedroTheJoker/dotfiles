@@ -1,0 +1,44 @@
+{
+    "com.github.pywkm.ulauncher-spotify": {
+        "id": "com.github.pywkm.ulauncher-spotify",
+        "url": "https://github.com/pywkm/ulauncher-spotify",
+        "updated_at": "2020-11-12T13:30:49.542053",
+        "last_commit": "89d9b02316aaccea0d70b458bb97b3976287f03e",
+        "last_commit_time": "2020-02-17T16:20:21"
+    },
+    "com.github.ulauncher.ulauncher-emoji": {
+        "id": "com.github.ulauncher.ulauncher-emoji",
+        "url": "https://github.com/Ulauncher/ulauncher-emoji",
+        "updated_at": "2020-11-12T13:35:36.512982",
+        "last_commit": "d56b2c8106ab5fbc87b55f608a3bd75db23f2904",
+        "last_commit_time": "2020-10-03T19:10:03"
+    },
+    "com.github.yannishuber.pass-ulauncher": {
+        "id": "com.github.yannishuber.pass-ulauncher",
+        "url": "https://github.com/yannishuber/pass-ulauncher",
+        "updated_at": "2020-11-12T13:36:22.096267",
+        "last_commit": "25160ce85e731cf40e30ca1fe354b29c1fe6e494",
+        "last_commit_time": "2019-05-28T05:27:22"
+    },
+    "com.github.rkarami.ulauncher-password-generator": {
+        "id": "com.github.rkarami.ulauncher-password-generator",
+        "url": "https://github.com/rkarami/ulauncher-password-generator",
+        "updated_at": "2020-11-12T13:36:51.839133",
+        "last_commit": "dd835041f81a0821e6398d3ab817847d93af615f",
+        "last_commit_time": "2019-09-27T21:34:17"
+    },
+    "com.github.fisadev.ulauncher-better-file-browser": {
+        "id": "com.github.fisadev.ulauncher-better-file-browser",
+        "url": "https://github.com/fisadev/ulauncher-better-file-browser",
+        "updated_at": "2020-11-12T13:37:51.498118",
+        "last_commit": "8ec8a0dda09e172de62051cd1f251816ce4af368",
+        "last_commit_time": "2019-09-06T19:20:09"
+    },
+    "com.github.brpaz.ulauncher-vscode-projects": {
+        "id": "com.github.brpaz.ulauncher-vscode-projects",
+        "url": "https://github.com/brpaz/ulauncher-vscode-projects",
+        "updated_at": "2020-11-12T13:38:21.706155",
+        "last_commit": "3590fed27a5b0c72d5b47f264a6f6111e65ee59d",
+        "last_commit_time": "2019-12-03T20:05:11"
+    }
+}
